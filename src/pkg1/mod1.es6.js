@@ -1,2 +1,1 @@
-const a = "A const"
-console.log(a)
+export const foo = 'bar'
